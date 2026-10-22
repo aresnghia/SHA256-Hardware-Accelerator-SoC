@@ -1,0 +1,31 @@
+﻿# Quartus compilation databases and outputs
+db/
+incremental_db/
+output_files/
+simulation/
+.qsys_edit/
+.vscode/
+*.bak
+*.rpt
+*.chg
+*.htm
+*.html
+*.eqn
+*.pin
+*.sof
+*.pof
+*.summary
+*.smsg
+*.qws
+*.bsf
+*.cmp
+
+# Software build objects & binaries
+obj/
+*.o
+*.d
+*.a
+
+# OS files
+Thumbs.db
+.DS_Store
